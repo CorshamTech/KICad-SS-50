@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MOLEX_09-48-2101
+D MOLEX 09-48-2101 10 pin female connector, .156" spacing
+$ENDCMP
+#
+$CMP MOLEX_1-640384-0
+D MOLEX 09-48-2101 10 pin male connector, .156" spacing
+$ENDCMP
+#
+#End Doc Library
